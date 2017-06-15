@@ -1,0 +1,8 @@
+server:
+  port: 8080
+cup: F
+size: 18
+content: "cup: ${cup}, size: ${size} for develop"
+people:
+  name: lolog for develop
+  age: 19
